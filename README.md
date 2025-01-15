@@ -85,7 +85,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - Mohamad Jarad
 - Email: swe.mohamad.jarad@gmail.com
 - LinkedIn: [Your LinkedIn Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohamad-jarad-976545226/))
-- Portfolio 
-```
-
+- Portfolio: https://sites.google.com/view/mohamad-jarad
 
